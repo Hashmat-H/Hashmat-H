@@ -18,9 +18,9 @@
 
 ## IDEF0-диаграмма
 
-![none](https://github.com/Leo-alt-droid/Leonid-Cheshkov/blob/main/lab1/model1.png)
+![none](https://github.com/Hashmat-H/Hashmat-H/blob/main/Лаб2.1.png)
 ## Декомпозиция
-![image](https://github.com/Leo-alt-droid/Leonid-Cheshkov/blob/main/lab1/model2.png)
+![image](https://github.com/Hashmat-H/Hashmat-H/blob/main/Лаб2.2.png)
 
 * А1 - Принять сообщение.
 Сообщение поступает в программу.
