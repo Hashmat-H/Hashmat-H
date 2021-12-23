@@ -41,3 +41,15 @@
 
 
 ## Лабораторная работа 3
+
+
+DFD-диаграмма :
+![IFD0](https://github.com/Leo-alt-droid/Leonid-Cheshkov/blob/main/lab1/model0.png)
+Диаграмма последовательности:
+![IFD0](https://github.com/Leo-alt-droid/Leonid-Cheshkov/blob/main/lab1/ZLFTYXCn6Bt_dYBi_Rw05xBMX_0wROCjxKo6DECY8hGL1DsoHV1AS1TzWjdAk7NQdNc5Bs_a-JAsTK1X1vAGvFoSazABcTVEvycKPfDncccd4wK7tZhrXdfwC7dfR9uEdzifJbwCnjxGC-ViPNlGcm91FUk6nlrzyfPqxcsQ9ttZY5gvC_x63PVXFM-vu1rlmo8ipvIUgNm6L5zij7iDt1UkUSzDM8Nhi0H.png)
+* Специалист вводит поисковый запрос
+* Идет поиск обслуживаемых объектов и лиц в соответствующих БД
+* Специалист принимает решение и пишет ответ пользователю
+
+ER - диаграмма:  
+![IFD0](https://github.com/Leo-alt-droid/Leonid-Cheshkov/blob/main/lab1/Untitled%20Diagram.drawio.png)
