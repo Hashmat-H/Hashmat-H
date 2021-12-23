@@ -1,3 +1,5 @@
+### Лаб1
+
 ## IDEF0-диаграмма
 
 ![](https://github.com/Hashmat-H/Hashmat-H/blob/main/Снимок%20экрана%202021-12-22%20141940.png)
