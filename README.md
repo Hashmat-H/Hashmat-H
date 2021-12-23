@@ -13,3 +13,5 @@
 ### Usecase Diagram
 
 ![](https://github.com/Hashmat-H/Hashmat-H/blob/main/3.png)
+
+## Лабораторная работа 2
