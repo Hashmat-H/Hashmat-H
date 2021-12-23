@@ -8,8 +8,8 @@
 
 ### Class Diagram
 
-![](https://github.com/Leo-alt-droid/Leonid-Cheshkov/blob/main/lab1/classovaya%20diagramma.png)
+![](https://github.com/Hashmat-H/Hashmat-H/blob/main/2.png)
 
 ### Usecase Diagram
 
-![](https://github.com/Leo-alt-droid/Leonid-Cheshkov/blob/main/lab1/usecase%20diagramm.png)
+![](https://github.com/Hashmat-H/Hashmat-H/blob/main/3.png)
